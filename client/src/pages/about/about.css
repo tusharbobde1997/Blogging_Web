@@ -1,0 +1,25 @@
+.about-banner {
+	background-image: url('../.././images/about-banner.jpg');
+}
+
+.fancy-title {
+	position: relative;
+	display: flex;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.title-bottom-border h4 {
+	width: 100%;
+	padding-bottom: 15px;
+	border-bottom: 2px solid #1abc9c;
+}
+
+.heading-block h4 {
+	font-size: 20px;
+	font-weight: 700;
+}
+
+h4>span {
+	color: #1abc9c;
+}

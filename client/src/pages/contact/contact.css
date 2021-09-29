@@ -1,0 +1,9 @@
+.contact-banner {
+	background-image: url('../.././images/contact-banner.jpg');
+}
+
+.social-share i {
+	font-size: 45px;
+	margin-right: 10px;
+	cursor: pointer;
+}
